@@ -367,7 +367,7 @@ All experiments follow a standardized approach:
 
 ## 👨‍💼 Author
 
-**Data Science & Analytics Team**
+**Joseph Asborn Daniel (192324009)**
 
 ---
 
